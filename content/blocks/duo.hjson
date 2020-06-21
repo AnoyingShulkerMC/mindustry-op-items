@@ -21,12 +21,4 @@ ammo: {
   graphite: standardDense
   pyratite: standardIncendiary
   silicon: standardHoming
-  super-alloy: {
-    speed: 6.0
-    damage: 1000
-    reloadmultiplier: 0.1
-    bulletWidth: 7
-    bulletHeight: 9
-    ammoMultiplier: 10
-  }
 }
