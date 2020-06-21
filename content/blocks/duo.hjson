@@ -1,11 +1,11 @@
-
+reload: 1
 ammo: {
   copper: {
     //move 6 world units per frame (very fast)
     speed: 6.0
-    damage: 999
+    damage: 100
     //0.5x reload time, so 2x shoot speed
-    reloadMultiplier: 0.25
+    reloadMultiplier: 1
     //visual size - does not affect hitbox
     bulletWidth: 7
     bulletHeight: 9
