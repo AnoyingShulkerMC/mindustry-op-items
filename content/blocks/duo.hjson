@@ -18,8 +18,6 @@ ammo: {
     //visual bullet front and back
     backColor: ac7349
     frontColor: dcd16b
-    homingPower: 10
-    homingRange: 100
   }
   graphite: standardDense
   pyratite: standardIncendiary
