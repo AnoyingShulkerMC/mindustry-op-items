@@ -5,7 +5,7 @@ ammo: {
     speed: 6.0
     damage: 999
     //0.5x reload time, so 2x shoot speed
-    reloadMultiplier: 0.1
+    reloadMultiplier: 0.25
     //visual size - does not affect hitbox
     bulletWidth: 7
     bulletHeight: 9
