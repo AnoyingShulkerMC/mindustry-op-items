@@ -2,6 +2,7 @@ range: 1000
 reload: 1
 ammo: {
   copper: {
+    lifetime: 1000
     //move 6 world units per frame (very fast)
     speed: 6.0
     damage: 100
