@@ -1,10 +1,9 @@
-shootSound: shotgun
-requirments: ["copper/1"]
+requirments: [copper/1]
 ammo: {
   copper: {
     //move 6 world units per frame (very fast)
     speed: 6.0
-    damage: 999999
+    damage: 999
     //0.5x reload time, so 2x shoot speed
     reloadMultiplier: 0.1
     //visual size - does not affect hitbox
@@ -13,7 +12,7 @@ ammo: {
     shootEffect: shootSmall
     smokeEffect: shootSmallSmoke
     //2 bullets per electrum item
-    ammoMultiplier: 999999999999999999
+    ammoMultiplier: 99
     //visual bullet front and back
     backColor: ac7349
     frontColor: dcd16b
