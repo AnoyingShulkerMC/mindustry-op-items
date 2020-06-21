@@ -1,2 +1,3 @@
 requirments: ["copper/1", "lead/1"]
 research: duo
+buildVisibility: shown
