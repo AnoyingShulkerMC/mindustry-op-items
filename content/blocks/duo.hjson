@@ -18,6 +18,8 @@ ammo: {
     //visual bullet front and back
     backColor: ac7349
     frontColor: dcd16b
+    lightning: 5
+    lightningLength: 1000
   }
   graphite: standardDense
   pyratite: standardIncendiary
