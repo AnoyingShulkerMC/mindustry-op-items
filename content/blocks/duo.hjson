@@ -1,4 +1,4 @@
-requirments: [copper/1]
+
 ammo: {
   copper: {
     //move 6 world units per frame (very fast)
