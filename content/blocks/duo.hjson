@@ -12,7 +12,7 @@ ammo: {
     shootEffect: shootSmall
     smokeEffect: shootSmallSmoke
     //2 bullets per electrum item
-    ammoMultiplier: 99
+    ammoMultiplier: 10
     //visual bullet front and back
     backColor: ac7349
     frontColor: dcd16b
